@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @harshasnayaka 
-- 👀 I’m interested in Codinig 
-- 🌱 I’m currently learning Electrical and Electronics Engineering 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me harshasnayaka@gmail.com
+- 👋 Hi, I’m @Harsha S.
+- 👀 I’m interested in Coding and Web Development.
+- 🌱 I’m currently learning Electrical and Electronics Engineering.
+- 💞️ I’m looking to collaborate NOT YET.
+- 📫 How to reach me harshasnayaka07@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
